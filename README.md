@@ -41,17 +41,7 @@ Quiz game using an array of `struct` to hold questions and answers.
 
 ---
 
-### 4. 🎮 Mini Quiz Game (Basic) (`mini_quiz_game.c`)
-A simpler version of the quiz game with hardcoded questions.
-
-- 3 general knowledge questions
-- Instant feedback and final score
-
-> Practice: conditionals, basic I/O
-
----
-
-### 5. 💱 Currency Converter (`currency_converter.c`)
+### 4. 💱 Currency Converter (`currency_converter.c`)
 Convert INR into foreign currencies like USD, EUR, GBP, and JPY.
 
 - Menu-based input
@@ -61,7 +51,7 @@ Convert INR into foreign currencies like USD, EUR, GBP, and JPY.
 
 ---
 
-### 6. 🧮 Collatz Conjecture (`collatz_conjecture.c`)
+### 5. 🧮 Collatz Conjecture (`collatz_conjecture.c`)
 A program that calculates how many steps it takes for a number to reach 1 using the Collatz rule.
 
 - If even → divide by 2
